@@ -13,37 +13,22 @@
 
 ---
 
-## 👨‍💻 About Me
+**Frontend Developer** with 2+ years building scalable web apps, 3D visualization systems, and AI-powered tools.
+Currently at **Lnx Cloud Technology**, turning complex backend data into clean, interactive UIs.
 
-```ts
-const jay = {
-  role      : "Frontend Developer",
-  company   : "Lnx Cloud Technology",
-  location  : "Rajkot, Gujarat, India 📍",
-  experience: "2+ years",
-  builds    : ["3D Visualizers", "AI-powered Apps", "Dynamic PDF Systems"],
-  openTo    : ["Remote Jobs", "Freelance Projects"],
-  portfolio : "https://jay-sinojiya-portfolio-369.vercel.app",
-  contact   : "sinojiyajay3@gmail.com",
-};
-```
-
-I'm a frontend developer who builds things that look sharp, run fast, and actually work under pressure.
-At **Lnx Cloud Technology** I've shipped 3D tile visualizers, AI construction tools, and branded PDF engines — not side projects, real client products.
-
-Currently looking for the right **remote frontend role**.
+📍 Rajkot, Gujarat, India &nbsp;|&nbsp; 📞 +91 93134 23587
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -56,130 +41,105 @@ Currently looking for the right **remote frontend role**.
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-**Testing & Tools**
+**Testing**
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jay-sinojiya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-sinojiya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=jay-sinojiya&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jay-sinojiya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-sinojiya&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jay-sinojiya&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🧊 360° Tiles Visualizer
-Real-time 3D tile surface replacement with photorealistic reflection, shadow rendering, 360° preview and 4K export. Built for a tiles manufacturing client.
+> 3D tile visualization system with real-time reflection, shadow rendering, 360° preview, and 4K/2K export.
 
-- Live tile swap on 3D surfaces
-- Reflection & shadow rendering
-- 4K / 2K / standard export
-- Server-side save & download
+- Dynamic tile replacement on live 3D surfaces
+- Layout plan generation by tile size
+- Server-side save, download, and gallery image upload
+- Unit tests for interactive components and state management
 
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Three.js](https://img.shields.io/badge/-Three.js-black?style=flat-square&logo=three.js)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+**Stack:** React.js · Three.js · Django · TypeScript · Jest
 
-</td>
-<td width="50%" valign="top">
+---
 
 ### 📄 Tiles Catalogue Platform
-Dynamic catalogue system with 360° views embedded inside branded PDFs, drag-and-drop template builder, and per-client export configuration.
+> Dynamic catalogue management with branded PDFs, 360° view embeds, and client-wise data exports.
 
-- 360° tile previews inside PDF
-- Per-client branding & templates
-- ZIP-based tile data uploads
-- Full unit & integration tests
+- Template selection engine with company branding
+- ZIP upload system for tile data storage
+- Dynamic Django variable and conditional rendering
+- Unit and integration tests for PDF generation logic
 
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+**Stack:** React.js · Node.js · Django · TypeScript · Jest · React Testing Library
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🤖 Sitepace Intelleviz
-AI construction assistant — upload a site video, OpenAI analyses work completion, and a PDF report is auto-generated and ready to download.
+### 🤖 Sitepace Intelleviz (AI Construction Assistant)
+> AI chatbot that analyzes construction site videos and auto-generates completion reports via OpenAI.
 
-- Video upload + AI analysis
-- OpenAI API end-to-end
-- Auto-generated PDF reports
-- Full test coverage
+- Video upload with AI-based work completion analysis
+- Automated PDF report generation (downloadable)
+- Unit tests for chatbot, API response handling, and report modules
 
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+**Stack:** React.js · Node.js · OpenAI API · TypeScript · Jest
 
-</td>
-<td width="50%" valign="top">
+---
 
 ### 📊 Country Microservices Dashboard
-Clean CRUD admin panel with CSV bulk upload/export, fully configurable dynamic tables and automated test coverage across all flows.
+> Full CRUD admin panel with CSV bulk operations and dynamic configurable tables.
 
-- CSV bulk upload & export
-- Configurable column management
-- Clean admin UI
-- Automated CRUD tests
+- CSV bulk upload and export
+- Customizable column management
+- Automated tests for all CRUD operations
 
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-
-</td>
-</tr>
-</table>
+**Stack:** React.js · Django · TypeScript · Jest · React Testing Library
 
 ---
 
-## 📈 Contribution Activity
+### 🧩 Dynamic Django Template Builder
+> Drag-and-drop template builder for tile catalogues with conditional rendering and dynamic variable injection.
 
-<div align="center">
+- Customizable page count, logo placement, website URL
+- User-driven template generation and download
+- Django template conditional/variable rendering
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jay-sinojiya&theme=tokyo-night&hide_border=true&area=true)](https://github.com/jay-sinojiya)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake](https://raw.githubusercontent.com/jay-sinojiya/jay-sinojiya/output/snake.svg)
-
-</div>
+**Stack:** React.js · Django · TypeScript
 
 ---
 
-## 🎯 What I'm Doing Now
+## 💼 Experience
 
-- 🔨 &nbsp;Pushing my best projects to public GitHub repos
+**Front-End Developer** — Lnx Cloud Technology *(June 2023 – Present)*
+- Built scalable web apps using React.js, Next.js, and TypeScript
+- Implemented 3D and 360° visualization with Three.js
+- Developed automated PDF generation systems for dynamic business reports
+- Integrated AI APIs (OpenAI) for smart automation
+- Wrote unit and integration tests with Jest and React Testing Library
+
+---
+
+## 🎓 Education
+
+**MSc Chemistry** — C U Shah University *(2023)*
+**BSc Chemistry** — C U Shah University, Surendranagar *(2021)*
+
+---
+
+## 🎯 Currently
+
+- 🔨 &nbsp;Pushing best projects to public GitHub repos
 - 📖 &nbsp;Going deeper on Next.js — App Router, SSR, edge functions
 - 🤖 &nbsp;Exploring advanced OpenAI API workflows
 - 💼 &nbsp;**Actively looking for remote frontend roles**
@@ -190,7 +150,7 @@ Clean CRUD admin panel with CSV bulk upload/export, fully configurable dynamic t
 
 <div align="center">
 
-I'm looking for a remote frontend role — ideally something with **React**, **3D/visualization**, or **AI-integrated UIs**. If that sounds like your team, let's talk.
+Looking for a remote frontend role — ideally with **React**, **3D/visualization**, or **AI-integrated UIs**. If that's your team, let's talk.
 
 <br/>
 

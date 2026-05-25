@@ -99,3 +99,17 @@ Currently at **Lnx Cloud Technology**, turning complex backend data into clean, 
 ---
 
 *Open to frontend roles. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sinojiya-jay-22760a209) or email.*
+
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jay-sinojiya&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-sinojiya&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jay-sinojiya&theme=tokyonight&hide_border=true" />
+</p>
+
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)

@@ -127,14 +127,7 @@ Currently at **Lnx Cloud Technology**, turning complex backend data into clean, 
 - Developed automated PDF generation systems for dynamic business reports
 - Integrated AI APIs (OpenAI) for smart automation
 - Wrote unit and integration tests with Jest and React Testing Library
-
----
-
-## 🎓 Education
-
-**MSc Chemistry** — C U Shah University *(2023)*
-**BSc Chemistry** — C U Shah University, Surendranagar *(2021)*
-
+  
 ---
 
 ## 🎯 Currently
